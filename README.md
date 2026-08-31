@@ -2,7 +2,7 @@
 Correlation based Seizure Onset Detection <br>
 
 ## Disclaimer: 
-**This software is not intended for placement on the market but is intended exclusively for research applications. The source code is being published in affiliation with University of Bonn (https://www.uni-bonn.de/de) and the Lamarr Institute (https://lamarr-institute.org/). This work was partially funded by the Ministry of Culture and Science of the State of North Rhine-Westphalia, Germany (“iBehave”).** <br>
+**This software is not intended for placement on the market but is intended exclusively for research applications.** <br>
 If you use the source code in your research, please cite our paper:
 Kumar, U., Yu, R., Wenzel, M., Demidova, E. (2024). Co-ReaSON: EEG-based Onset Detection of Focal Epileptic Seizures with Multimodal Feature Representations. In: Yang, DN., Xie, X., Tseng, V.S., Pei, J., Huang, JW., Lin, J.CW. (eds) Advances in Knowledge Discovery and Data Mining. PAKDD 2024. Lecture Notes in Computer Science(), vol 14648. Springer, Singapore. https://doi.org/10.1007/978-981-97-2238-9_20
 
@@ -28,3 +28,7 @@ such that train_dataset_path is the path where training data is kept, test_datas
 
 <b> code_files </b> contains Python codes for data_preprocessing, feature extraction, model and an utilities file with many common functions.  <br>
 <b> data_files </b> contains a Readme.txt file with instructions. <br>
+
+<b>Affiliations: </b> The source code is being published in affiliation with University of Bonn (https://www.uni-bonn.de/de) and the Lamarr Institute (https://lamarr-institute.org/). 
+
+<b>Acknowledgements: </b> This work was partially funded by the Ministry of Culture and Science of the State of North Rhine-Westphalia, Germany (“iBehave”).
