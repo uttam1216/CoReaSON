@@ -2,7 +2,7 @@
 Correlation based Seizure Onset Detection <br>
 
 The code in this repository is an implementation of our published approach: <br>
-Kumar, U., Yu, R., Wenzel, M., Demidova, E. (2024). Co-ReaSON: EEG-based Onset Detection of Focal Epileptic Seizures with Multimodal Feature Representations. In: Yang, DN., Xie, X., Tseng, V.S., Pei, J., Huang, JW., Lin, J.CW. (eds) Advances in Knowledge Discovery and Data Mining. PAKDD 2024. Lecture Notes in Computer Science(), vol 14648. Springer, Singapore. https://doi.org/10.1007/978-981-97-2238-9_20 <br>
+Kumar, U., Yu, R., Wenzel, M., Demidova, E.: Co-ReaSON: EEG-based onset detection of focal epileptic seizures with multimodal feature representations. In: Proceedings of the PAKDD 2024. LNCS, vol. 14648, pp. 258–270. Springer, Heidelberg (2024). https://doi.org/10.1007/978-981-97-2238-9_20 <br> 
 If you use the source code in your research, please cite our paper. <br>
 
 <b>Notes: </b> <br>
