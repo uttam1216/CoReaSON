@@ -1,8 +1,9 @@
 # Co-ReaSON
 Correlation based Seizure Onset Detection <br>
 
-The code in this repository is an implementation of our published approach: 
-Kumar, U., Yu, R., Wenzel, M., Demidova, E. (2024). Co-ReaSON: EEG-based Onset Detection of Focal Epileptic Seizures with Multimodal Feature Representations. In: Yang, DN., Xie, X., Tseng, V.S., Pei, J., Huang, JW., Lin, J.CW. (eds) Advances in Knowledge Discovery and Data Mining. PAKDD 2024. Lecture Notes in Computer Science(), vol 14648. Springer, Singapore. https://doi.org/10.1007/978-981-97-2238-9_20
+The code in this repository is an implementation of our published approach: <br>
+Kumar, U., Yu, R., Wenzel, M., Demidova, E. (2024). Co-ReaSON: EEG-based Onset Detection of Focal Epileptic Seizures with Multimodal Feature Representations. In: Yang, DN., Xie, X., Tseng, V.S., Pei, J., Huang, JW., Lin, J.CW. (eds) Advances in Knowledge Discovery and Data Mining. PAKDD 2024. Lecture Notes in Computer Science(), vol 14648. Springer, Singapore. https://doi.org/10.1007/978-981-97-2238-9_20 <br>
+If you use the source code in your research, please cite our paper. <br>
 
 <b>Notes: </b> <br>
 1) This repository does not contain any data. We used TUH Seizure (TUSZ) dataset v2.0.0 for our research. To access this data, please directly contact the TUH Seizure (TUSZ) dataset author whose reference is: "Shah, V., et al.: The temple university hospital seizure detection corpus. Front. Neuroinform. 12, 83 (2018)" <br> <br>
